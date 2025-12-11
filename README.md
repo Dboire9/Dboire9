@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>Hi 👋! I'm Dorian, student at 42 Paris</h1>
-  <h3>
-    🔭 I’m currently looking for a <strong>Software Development / AI internship starting January</strong>
-  </h3>
+  <h1>Hi 👋! I'm Dorian</h1>
 </div>
 
 ###
